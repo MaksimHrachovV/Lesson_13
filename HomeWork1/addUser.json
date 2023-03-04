@@ -1,0 +1,22 @@
+{
+  "name": "Test Max",
+  "username": "TestMax",
+  "email": "Test@gmail.com",
+  "address": {
+    "street": "Test Street",
+    "suite": "Test. 1",
+    "city": "TestKiev",
+    "zipcode": "3874",
+    "geo": {
+      "lat": "-7.3159",
+      "lng": "1.1496"
+    }
+  },
+  "phone": "8-063-000-00-00",
+  "website": "https://www.edu.goit.global/uk/homepage",
+  "company": {
+    "name": "Test test",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
